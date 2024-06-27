@@ -7,7 +7,6 @@
 <br/>
 
 ### Get connected:
-[![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/rifat-hassan-nibir)
 [![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifat-hassan-nibir)
 [![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rifat.hassan.nibir)
  
