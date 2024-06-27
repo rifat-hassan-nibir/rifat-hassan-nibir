@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/D5616AQFxEozMdjAXOQ/profile-displaybackgroundimage-shrink_350_1400/0/1716376651950?e=1724889600&v=beta&t=OfLZsIefgURc8DA_DEvpC_cJuy0XMZor90FWsRT9lec)
+<img src="https://media.licdn.com/dms/image/D5616AQFxEozMdjAXOQ/profile-displaybackgroundimage-shrink_350_1400/0/1716376651950?e=1724889600&v=beta&t=OfLZsIefgURc8DA_DEvpC_cJuy0XMZor90FWsRT9lec" />
 
 
 <h1 align="center">Hi 👋, I'm Rifat Hassan Nibir</h1>
