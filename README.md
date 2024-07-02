@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Rifat Hassan</h1>
 <h3 align="center">Junior Frontend Developer | Experienced in MERN Stack</h3>
+<p>I am Rifat Hassan, a Frontend Developer driven by the challenge of converting complex ideas into elegant code. With a strong background in HTML, CSS, JavaScript, and frameworks like React, I strive to create seamless user experiences. My journey in web development has been fueled by a passion for learning and innovation. I am dedicated to continuous improvement and delivering high-quality, user-centric solutions.</p>
 
 <br/>
 
