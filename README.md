@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQFxEozMdjAXOQ/profile-displaybackgroundimage-shrink_350_1400/0/1716376651950?e=1724889600&v=beta&t=OfLZsIefgURc8DA_DEvpC_cJuy0XMZor90FWsRT9lec" />
+<img src="https://media.licdn.com/dms/image/D5616AQHDKk_ukyiP5w/profile-displaybackgroundimage-shrink_350_1400/0/1719892150719?e=1725494400&v=beta&t=sps4UABX7gwtj3YzQ8bFDe6OBmoYjIdhYKZ6pko8jVQ" />
 
 
 <h1 align="center">Hi 👋, I'm Rifat Hassan</h1>
