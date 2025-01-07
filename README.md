@@ -3,8 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Rifat Hassan</h1>
 <h3 align="center">Software Engineer | Experienced in MERN Stack</h3>
-<p>About
-As a passionate Software Engineer specializing in JavaScript, React, and Remix, I thrive on building dynamic, user-centric web applications that solve real-world problems. With a strong foundation in modern web development, I focus on delivering scalable, maintainable, and high-performance solutions.</p>
+<p>As a passionate Software Engineer specializing in JavaScript, React, and Remix, I thrive on building dynamic, user-centric web applications that solve real-world problems. With a strong foundation in modern web development, I focus on delivering scalable, maintainable, and high-performance solutions.</p>
 
 <br/>
 
