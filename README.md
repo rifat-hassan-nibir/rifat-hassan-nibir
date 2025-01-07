@@ -1,9 +1,10 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHDKk_ukyiP5w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719892150719?e=1738195200&v=beta&t=3ClYOEwuIlYYUPl8eEgVMND8hLnvWiBU-WDRwgXsIC0" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHfM-qjwnbgBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736051481810?e=1741824000&v=beta&t=V5vyoPJ2WmHhhnmh4yuVdg4HioKIdJYb7VSVyKaHxHY" />
 
 
 <h1 align="center">Hi 👋, I'm Rifat Hassan</h1>
-<h3 align="center">Junior Frontend Developer | Experienced in MERN Stack</h3>
-<p>I am Rifat Hassan, a Frontend Developer driven by the challenge of converting complex ideas into elegant code. With a strong background in HTML, CSS, JavaScript, and frameworks like React, I strive to create seamless user experiences. My journey in web development has been fueled by a passion for learning and innovation. I am dedicated to continuous improvement and delivering high-quality, user-centric solutions.</p>
+<h3 align="center">Software Engineer | Experienced in MERN Stack</h3>
+<p>About
+As a passionate Software Engineer specializing in JavaScript, React, and Remix, I thrive on building dynamic, user-centric web applications that solve real-world problems. With a strong foundation in modern web development, I focus on delivering scalable, maintainable, and high-performance solutions.</p>
 
 <br/>
 
