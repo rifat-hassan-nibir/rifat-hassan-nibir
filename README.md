@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHfM-qjwnbgBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736051481810?e=1748476800&v=beta&t=r7CLsqQImvQHE0WWqfTckX7W2z_qWosU4-MjtrrWwl8" />
-
 
 <h1 align="center">Hi 👋, I'm Rifat Hassan</h1>
 <h3 align="center">Software Engineer | Experienced in MERN Stack</h3>
